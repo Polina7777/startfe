@@ -29,4 +29,4 @@ CV создаётся в вашем личном публичном репози
  3.От ветки main создайте ветку gh-pages. В ветке gh-pages создайте файл cv.md.
  4.Используя markdown-разметку в файле cv.md создайте своё CV.
  5.В файл README.md добавьте ссылку вида https://github-username.github.io/cv, в которой вместо github-username укажите свой GitHub username. После завершения работы по этой ссылке будет открываться страница CV
- 6.После завершения работы откройте Pull Request из ветки gh-pages в ветку main. Мержить Pull Request не нужно
+ 6.После завершения работы откройте Pull Request из ветки gh-pages в ветку main. **Мержить Pull Request не нужно**
