@@ -55,12 +55,12 @@ CV создаётся в вашем личном публичном репози
 
 ### init:- используется для начала проекта/таска. Примеры:###
 
-"init: start youtube-task
- init: start mentor-dashboard task"
+`init: start youtube-task`
+`init: start mentor-dashboard task`
 
 ### feat: - это реализованная новая функциональность из технического задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта). Примеры:###
 
-" feat: add basic page layout "
+feat: add basic page layout 
 feat: implement search box
 feat: implement request to youtube API
 feat: implement swipe for horizontal list
