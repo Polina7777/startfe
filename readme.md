@@ -80,6 +80,7 @@ CV создаётся в вашем личном публичном репози
 #### refactor: - новой функциональности не добавлял / поведения не менял.Файлы в другие места положил, удалил, добавил. Изменил форматирование кода (white-space, formatting, missing semi-colons, etc). Улучшил алгоритм, без изменения функциональности.                                          Примеры:
 
     refactor: change structure of the project
+    refactor: rename vars for better readability
     refactor: apply eslint
     refactor: apply prettier
 
