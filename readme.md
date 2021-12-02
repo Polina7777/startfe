@@ -53,12 +53,12 @@ CV создаётся в вашем личном публичном репози
 В ветке `gh-pages` должно быть не меньше 3-х коммитов.
 
 
-**init:** - используется для начала проекта/таска. Примеры:
+**init:- используется для начала проекта/таска.** Примеры:
 
 <init: start youtube-task
  init: start mentor-dashboard task >
 
-**feat:** - это реализованная новая функциональность из технического задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта). Примеры:
+**feat: - это реализованная новая функциональность из технического задания (добавил поддержку зумирования, добавил footer, добавил карточку продукта).** Примеры:
 
 <feat: add basic page layout
 feat: implement search box
@@ -70,14 +70,14 @@ feat: add social links
 feat: add physical security section
 feat: add real social icons
 
-**fix:** - исправил ошибку в ранее реализованной функциональности. Примеры:
+**fix: - исправил ошибку в ранее реализованной функциональности.** Примеры:
 
 <fix: implement correct loading data from youtube
 fix: change layout for video items to fix bugs
 fix: relayout header for firefox
 fix: adjust social links for mobile
 
-**refactor:** - новой функциональности не добавлял / поведения не менял.
+**refactor: - новой функциональности не добавлял / поведения не менял.**
 
  Файлы в другие места положил, удалил, добавил. Изменил форматирование кода (white-space, formatting, missing semi-colons, etc). Улучшил алгоритм, без изменения функциональности. Примеры:
 
@@ -85,7 +85,7 @@ fix: adjust social links for mobile
 refactor: apply eslint
 refactor: apply prettier
 
-**docs:** - используется при работе с документацией/readme проекта. Примеры:
+**docs: - используется при работе с документацией/readme проекта.** Примеры:
 
 <docs: update readme with additional information
 docs: update description of run() method
